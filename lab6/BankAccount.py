@@ -2,7 +2,7 @@
 # Date   : June 23, 2021
 # File   : Lab 6, BackAccount.py
 
-# defines a BankAccount class
+# defines the BankAccount class
 class BankAccount:
 
     # initializes relevant data for the class instance

@@ -8,6 +8,5 @@
 
 if __name__ == '__main__':
 
-    path = "lab6/BankAccount.py"
-
+    path = "lab8/UsingFunctions.py"
     exec(open(path).read())
