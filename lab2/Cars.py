@@ -1,3 +1,7 @@
+# Author : John Patrick Pitts
+# Date   : June 21, 2021
+# File   : Cars.py
+
 makes = ["Honda", "Toyota", "Mercedes", "Ford"]
 models = ["Accord", "Camry", "C63AMG", "F150"]
 years = [2001, 1989, 2019, 2020]

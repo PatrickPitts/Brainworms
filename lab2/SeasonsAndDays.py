@@ -1,3 +1,7 @@
+# Author : John Patrick Pitts
+# Date   : June 21, 2021
+# File   : SeasonsAndDays.py
+
 # imports essential libraries
 import sys
 
