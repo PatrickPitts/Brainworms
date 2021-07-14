@@ -8,5 +8,5 @@
 
 if __name__ == '__main__':
 
-    path = "lab8/UsingFunctions.py"
+    path = "lab9/FormatFixer.py"
     exec(open(path).read())
